@@ -1,5 +1,7 @@
 # An experiment with DALL-E 3
 
+<img title="ChatGPT Screenshot" alt="ChatGPT Screenshot" src=".,/../twitter-banner.png">
+
 I tried using DALLE 3 to generate a consistent style for a comic strip. I think I did a good job.
 
 ## Prompts
